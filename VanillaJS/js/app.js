@@ -1,3 +1,5 @@
+// Loader
+
 const onLoad = () => {
     hideLoader();
 }
